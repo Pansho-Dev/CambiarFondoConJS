@@ -5,10 +5,10 @@
 Este proyecto contendra codigo con javascript vanilla, para practicar temas del Dom y modificacion de este con Javascript.
 Lo basico que se necesita para entender este proyecto es lo siguiente:
 
--> Manipulacion del Dom: Acceder a elementos del HTML y modificarlos con Javascript( incluyendo estilos css )
--> Manejo de Bucles: FOR
--> Arrays: Saber como funcionan, mas que nada el indice de estas y como llegar a un indice de un array
--> Math.floor() y Math.random(): Sera necesario para crear numeros del largo del array, para usarlos como indice.
+* Manipulacion del Dom: Acceder a elementos del HTML y modificarlos con Javascript( incluyendo estilos css )
+* Manejo de Bucles: FOR
+* Arrays: Saber como funcionan, mas que nada el indice de estas y como llegar a un indice de un array
+* Math.floor() y Math.random(): Sera necesario para crear numeros del largo del array, para usarlos como indice.
 
 ## Explicacion a Obtencion de Indices
 
